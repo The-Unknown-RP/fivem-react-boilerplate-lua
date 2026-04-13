@@ -1,0 +1,6 @@
+@layer theme, base, components, utilities;
+
+@theme {
+	--color-primary: #1D0EBE;
+	--color-background: #102A43;
+}

@@ -8,8 +8,7 @@ repository 'https://github.com/project-error/fivem-react-boilerplate-lua'
 lua54 'yes'
 
 games {
-  "gta5",
-  "rdr3"
+  "gta5"
 }
 
 ui_page 'web/build/index.html'
